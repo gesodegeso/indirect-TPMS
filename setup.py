@@ -9,8 +9,8 @@ with open("requirements.txt", "r", encoding="utf-8") as fh:
 setup(
     name="indirect-tpms",
     version="1.0.0",
-    author="Your Name",
-    author_email="your.email@example.com",
+    author="Hiroshi Kanai",
+    author_email="geso.de.geso@outlook.com",
     description="Advanced Indirect Tire Pressure Monitoring System using Machine Learning",
     long_description=long_description,
     long_description_content_type="text/markdown",
@@ -26,6 +26,7 @@ setup(
         "Programming Language :: Python :: 3.8",
         "Programming Language :: Python :: 3.9",
         "Programming Language :: Python :: 3.10",
+        "Programming Language :: Python :: 3.12",
         "Topic :: Scientific/Engineering :: Artificial Intelligence",
         "Topic :: Software Development :: Libraries :: Python Modules",
     ],
