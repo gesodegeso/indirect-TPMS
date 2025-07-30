@@ -1,8 +1,4 @@
-# ===========================================
-# README.md
-# ===========================================
-
-# Indirect TPMS - Advanced Tire Pressure Monitoring System
+S# Indirect TPMS - Advanced Tire Pressure Monitoring System
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
@@ -37,7 +33,7 @@ This system provides **direct TPMS-level accuracy** without requiring dedicated 
 │ • ABS/ESP speeds    │───▶│ • Wheel radius       │───▶│ • Bayesian NN       │
 │ • Accelerometers    │    │ • Vibration analysis │    │ • Lazy classifiers  │
 │ • Vehicle dynamics  │    │ • Statistical/ARMA   │    │ • Uncertainty est.  │
-│ • GPS/INS          │    │ • Histogram features │    │ • Real-time alerts  │
+│ • GPS/INS           │    │ • Histogram features │    │ • Real-time alerts  │
 └─────────────────────┘    └──────────────────────┘    └─────────────────────┘
 ```
 
@@ -47,7 +43,7 @@ This system provides **direct TPMS-level accuracy** without requiring dedicated 
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/indirect-TPMS.git
+git clone https://github.com/gesodegeso/indirect-TPMS.git
 cd indirect-TPMS
 
 # Install dependencies
