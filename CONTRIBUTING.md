@@ -1,7 +1,3 @@
-# ===========================================
-# CONTRIBUTING.md
-# ===========================================
-
 # Contributing to Indirect TPMS
 
 Thank you for your interest in contributing to the Indirect TPMS project! This document provides guidelines for contributing.

@@ -1,7 +1,3 @@
-# ===========================================
-# tests/test_tpms_module.py
-# ===========================================
-
 """
 Unit tests for indirect TPMS module
 """

@@ -1,7 +1,3 @@
-# ===========================================
-# docs/installation.md
-# ===========================================
-
 # Installation Guide
 
 ## System Requirements
