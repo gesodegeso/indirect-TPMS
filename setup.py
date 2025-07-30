@@ -14,7 +14,7 @@ setup(
     description="Advanced Indirect Tire Pressure Monitoring System using Machine Learning",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/YOUR_USERNAME/indirect-TPMS",
+    url="https://github.com/gesodegeso/indirect-TPMS",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 4 - Beta",

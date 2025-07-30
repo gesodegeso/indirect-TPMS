@@ -18,7 +18,7 @@ Thank you for your interest in contributing to the Indirect TPMS project! This d
 
 1. **Fork the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/indirect-TPMS.git
+   git clone https://github.com/gesodegeso/indirect-TPMS.git
    cd indirect-TPMS
    ```
 
@@ -71,7 +71,7 @@ Thank you for your interest in contributing to the Indirect TPMS project! This d
 
 1. **Clone and install in development mode**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/indirect-TPMS.git
+   git clone https://github.com/gesodegeso/indirect-TPMS.git
    cd indirect-TPMS
    pip install -e .[dev]
    ```

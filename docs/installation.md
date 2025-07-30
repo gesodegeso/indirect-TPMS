@@ -13,7 +13,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/indirect-TPMS.git
+git clone https://github.com/gesodegeso/indirect-TPMS.git
 cd indirect-TPMS
 
 # Install dependencies
@@ -27,7 +27,7 @@ pip install -e .
 
 ```bash
 # Clone repository
-git clone https://github.com/YOUR_USERNAME/indirect-TPMS.git
+git clone https://github.com/gesodegeso/indirect-TPMS.git
 cd indirect-TPMS
 
 # Create virtual environment
